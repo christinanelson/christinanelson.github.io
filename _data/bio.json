@@ -84,70 +84,55 @@
   ],
   "Experience": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Physics department",
+      "position": "Lab assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Collaboration on neutrino experiments: DUNE, NuLat, LPS",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Calibration and characterization of SiPMs, and PMTs",
+        "Data analysis via software and oscilloscope reading, circuit building",
+        "mechanical construction, cryogenic handling, optical laser operation"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Kapiolani Community College",
+      "position": "Peer mentor",
+      "website": "http://stem.kcc.hawaii.edu",
+      "startDate": "2013-09-01",
+      "endDate": "2014-05-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Peer mentor to students in STEM center for Computer Science I and II",
+        "Aided students in concepts of object oriented programming, algorithm development",
+        "debugging, abstract data types, and data structures"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "UROP",
+      "date": "Fall 2016-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Accepted proposal to experiment: Magnetization of novel multiferroic materials"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "CERN Univeristy of Michigan REU",
+      "date": "Winter semester 2015",
+      "awarder": "Loundsbery Foundation",
+      "summary": "Winter semester research at CERN with the Exotics group in ATLAS working in the diHiggs to 4b chanel",
+      "Contributed to software development tools for physics analysis, Monte Carlo simulation at 13 TeV and data at 7 TeV."
+    },
+    {
+      "title": "SULI at Fermilab",
+      "date": "Summer 2014",
+      "awarder": "Department of Energy",
+      "summary": "Summer reu at Fermilab working with the Mu2e simulation group",
+      "Built a toy model of the detector and calorimeter for Mu2e with a C++ and ROOT implementation in the MARS model",
+      "Componenets of detector: geometry, magnetic field gradient, chemical composition, particle interaction and trajectory"
     }
+
   ],
   "references": [
     {
