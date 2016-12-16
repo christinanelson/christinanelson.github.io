@@ -24,17 +24,17 @@
         "network": "linkedin",
         "username": "christina-nelson",
         "url": "http://linkedin.com/in/christina-nelson-50207731"
-      },
-     /* {
-        "network": "twitter",
-        "username": "christinanelson",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }*/
+      }
+     // {
+      //  "network": "twitter",
+       // "username": "christinanelson",
+        //"url": "http://twitter.com/changeme"
+     // },
+      //{
+        //"network": "instagram",
+        //"username": "molly",
+        //"url": "http://instagram.com/changeme"
+     // }
     ]
   },
   "interests": [
