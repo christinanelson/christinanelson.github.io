@@ -18,22 +18,12 @@
       {
         "network": "github",
         "username": "christinanelson",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/christinanelson"
       },
       {
         "network": "linkedin",
         "username": "christina-nelson",
         "url": "http://linkedin.com/in/christina-nelson-50207731"
-      },
-      {
-        "network": "twitter",
-        "username": "christinanelson",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
@@ -92,7 +82,7 @@
       ]
     }
   ],
-  "work": [
+  "Experience": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
