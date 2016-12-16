@@ -22,36 +22,35 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "christina-nelson",
+        "url": "http://linkedin.com/in/christina-nelson-50207731"
       },
-      {
+     /* {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "christinanelson",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      }
+      }*/
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Experimental particle physics and computer science applications to physics analysis and simulations, such as Monte Carlo methods and machine learning on very large data sets.",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Experimental Particle Physics"    
       ]
     },
     {
-      "name": "data mining",
+      "name": "Simulation",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "machine learning",
       "keywords": [
       ]
     }
@@ -63,10 +62,10 @@
       "keywords": [
         "C",
         "C++",
+        "Python",
+        "LaTeX",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "FORTRAN90"
       ]
     },
     {
@@ -77,16 +76,16 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Physics (expected Spring, 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
