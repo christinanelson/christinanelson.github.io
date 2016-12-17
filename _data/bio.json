@@ -45,31 +45,6 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Python",
-        "LaTeX",
-        "Java",
-        "FORTRAN90"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "Windows"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -90,6 +65,29 @@
       "gpa": "",
       "courses": [
       ]
+    }
+  ],
+    "awards": [
+    {
+      "title": "UROP",
+      "date": "Fall 2016-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Accepted proposal to experiment: Magnetization of novel multiferroic materials"
+    },
+    {
+      "title": "CERN Univeristy of Michigan REU",
+      "date": "Winter semester 2015",
+      "awarder": "Loundsbery Foundation",
+      "summary": "Winter semester research at CERN with the Exotics group in ATLAS working in the diHiggs to 4b chanel",
+      "Contributed to software development tools for physics analysis, Monte Carlo simulation at 13 TeV and data at 7 TeV."
+    },
+    {
+      "title": "SULI at Fermilab",
+      "date": "Summer 2014",
+      "awarder": "Department of Energy",
+      "summary": "Summer reu at Fermilab working with the Mu2e simulation group",
+      "Built a toy model of the detector and calorimeter for Mu2e with a C++ and ROOT implementation in the MARS model",
+      "Componenets of detector: geometry, magnetic field gradient, chemical composition, particle interaction and trajectory"
     }
   ],
   "work": [
@@ -120,30 +118,32 @@
       ]
     }
   ],
-  "awards": [
+   "skills": [
     {
-      "title": "UROP",
-      "date": "Fall 2016-Present",
-      "awarder": "University of Hawaii",
-      "summary": "Accepted proposal to experiment: Magnetization of novel multiferroic materials"
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "LaTeX",
+        "Java",
+        "FORTRAN90"
+      ]
     },
     {
-      "title": "CERN Univeristy of Michigan REU",
-      "date": "Winter semester 2015",
-      "awarder": "Loundsbery Foundation",
-      "summary": "Winter semester research at CERN with the Exotics group in ATLAS working in the diHiggs to 4b chanel",
-      "Contributed to software development tools for physics analysis, Monte Carlo simulation at 13 TeV and data at 7 TeV."
-    },
-    {
-      "title": "SULI at Fermilab",
-      "date": "Summer 2014",
-      "awarder": "Department of Energy",
-      "summary": "Summer reu at Fermilab working with the Mu2e simulation group",
-      "Built a toy model of the detector and calorimeter for Mu2e with a C++ and ROOT implementation in the MARS model",
-      "Componenets of detector: geometry, magnetic field gradient, chemical composition, particle interaction and trajectory"
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "Windows"
+      ]
     }
-
   ],
+  
   "references": [
     {
       "name": "Available upon request",
