@@ -4,7 +4,7 @@ type: project
 image: images/minicaptain.png
 title: Laser Positioning System (LPS)
 permalink: projects/lps
-date: 2014
+date: 2016
 labels:
   - MiniCAPTAIN
   - LPS
