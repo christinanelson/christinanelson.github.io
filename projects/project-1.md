@@ -4,7 +4,7 @@ type: project
 image: images/nulat_detector.jpeg
 title: NuLat
 permalink: projects/nulat
-date: 2015
+date: 2016
 labels:
   - NuLat
   - neutrino
