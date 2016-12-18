@@ -10,9 +10,9 @@ baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
-bio-page-label: CV
-essays-page-label: papers
-projects-page-label: experiments
+#bio-page-label: CV
+#essays-page-label: papers
+#projects-page-label: experiments
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
 theme-home: theme-home-builtin-1.html
