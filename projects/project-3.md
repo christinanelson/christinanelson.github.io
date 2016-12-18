@@ -53,5 +53,5 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a> -->
 
-
+You can learn more by viewing our collaboration presentation given by Dr.Maricic [here](  https://indico.fnal.gov/getFile.py/access?contribId=1&resId=0&materialId=slides&confId=11889).
 
