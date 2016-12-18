@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/nulat_detector.jpg
+image: images/nulat_detector.jpeg
 title: NuLat
 permalink: projects/nulat
 date: 2015
