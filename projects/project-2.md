@@ -4,7 +4,7 @@ type: project
 image: images/dune.jpg
 title: DUNE
 permalink: projects/dune
-date: 2015
+date: 2016
 labels:
   - DUNE
   - neutrino
