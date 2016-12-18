@@ -30,18 +30,18 @@
  
   "interests": [
     {
-      "name": "Experimental particle physics and computer science applications to physics analysis such as Monte Carlo simulations, machine learning, and statistical analysis.",
+      "name": "Experimental particle physics, the fundamental constituents of matter and their interaction. How matter on the smallest scale relates to matter on the largest. The very early Universe after the Big Bang.",
       "keywords": [
         "Experimental Particle Physics"    
       ]
     },
     {
-      "name": "Simulation",
+      "name": "Computer science applications to physics analysis such as Monte Carlo simulations, machine learning, and algorithm optimization.",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Mathematical modeling, statistical analysis, individual and collaborative work.",
       "keywords": [
       ]
     }
