@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/nulat_detector.jpeg
-title: NuLat
-permalink: projects/nulat
+image: images/dune.jpg
+title: DUNE
+permalink: projects/dune
 date: 2015
 labels:
-  - NuLat
+  - DUNE
   - neutrino
-  - anti neutrino anomaly
-  - reactor neutrinos
-summary: A novel detector to to measure neutrino flux in close proximity to a nuclear reactor via inverse beta decay.
+  - lbne
+summary: The University of Hawaii's involvement in the DUNE collaboration.
 ---
 <!--
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
@@ -23,5 +22,4 @@ In this project I gained experience with full-stack web application design and a
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a> -->
 
-
-You can view Dr.Maricic's presenation to learn more about NuLat [here](  https://www.mpi-hd.mpg.de/WIN2015/talks/neutrino3_maricic.pdf)
+You can learn more at the [UH involvement in DUNE Website](  http://www.phys.hawaii.edu/~lbne/lbneuh.html), and at the [DUNE Webiste]( http://www.dunescience.org).;
