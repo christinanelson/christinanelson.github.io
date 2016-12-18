@@ -22,4 +22,4 @@ In this project I gained experience with full-stack web application design and a
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a> -->
 
-You can learn more at the [UH involvement in DUNE Website](  http://www.phys.hawaii.edu/~lbne/lbneuh.html), and at the [DUNE Webiste]( http://www.dunescience.org).;
+You can learn more at the [UH involvement in DUNE Website](  http://www.phys.hawaii.edu/~lbne/lbneuh.html), and at the [DUNE Webiste]( http://www.dunescience.org).
