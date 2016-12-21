@@ -24,7 +24,12 @@
         "network": "linkedin",
         "username": "christina-nelson",
         "url": "http://linkedin.com/in/christina-nelson-50207731"
-      }
+      },
+            {
+        "network": "flickr",
+        "username": "eigenchristinanelson",
+        "url": "https://www.flickr.com/photos/eigenchristinanelson/"
+      },
     ]
   },
  
