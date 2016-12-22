@@ -11,7 +11,7 @@ labels:
   - lbne
 summary: The University of Hawaii's involvement in the DUNE collaboration.
 ---
- <font color="red">THIS PAGE IS UNDER CONSTRUCTION</font> 
+ <font color="red">PLEASE NOTE: THIS PAGE IS UNDER CONSTRUCTION</font> 
 
 <br>
 
