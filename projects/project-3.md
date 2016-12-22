@@ -8,7 +8,7 @@ date: 2016
 labels:
   - MiniCAPTAIN
   - LPS
-summary: The University of Hawaii's involvement in laser positioning (LPS) system for CAPTAIN and MiniCAPTAIN collaboration.
+summary: The University of Hawaii's involvement in laser positioning system for CAPTAIN and MiniCAPTAIN collaboration.
 ---
 
  <font color="red">PLEASE NOTE: THIS PAGE IS UNDER CONSTRUCTION</font> 
