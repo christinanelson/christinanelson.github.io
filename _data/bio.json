@@ -87,7 +87,7 @@
       "title": "SULI at Fermilab",
       "date": "Summer 2014",
       "awarder": "Department of Energy",
-      "summary": "Summer reu at Fermilab working with the Mu2e simulation group",
+      "summary": "Summer REU at Fermilab working with the Mu2e simulation group",
       "Built a toy model of the detector and calorimeter for Mu2e with a C++ and ROOT implementation in the MARS model",
       "Componenets of detector: geometry, magnetic field gradient, chemical composition, particle interaction and trajectory"
     }
