@@ -71,8 +71,10 @@
   ],
     "awards": [
     {
-      "title": "Dean's List",
-      "date": "Fall 2016"
+      "title": "Dean's List, Fall 2016",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
       "title": "UROP",
