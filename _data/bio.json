@@ -50,7 +50,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Physics, Computer Science minor (Spring, 2017)",
+      "area": "Physics, minor in Computer Science (Spring, 2017)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "2017-05-13",
@@ -107,8 +107,8 @@
      "endDate": "Present",
      "summary": "OER aims to improve pedagogy through open access educational tools, making quality education accessible to everyone",
      "highlights":[
-       "Building a open source database of physics problems in compliment to open access text books",
-       "Randomize and amorphous enough so that solutions are not easily searchable on the internet"
+       "Building an open source database of physics problems in compliment to open access text books",
+       "Randomized and amorphous problem sets that are not easily searchable on the internet"
        ]
     },
     {
