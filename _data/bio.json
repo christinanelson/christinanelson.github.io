@@ -99,7 +99,8 @@
     }
   ],
   "work": [
-    {"company": "University of Hawaii at Manoa",
+    {
+     "company": "University of Hawaii at Manoa",
      "position": "Open Education ReSources (OER)",
      "website": "oer.hawaii.edu",
      "startDate": "2017-05-13",
@@ -115,7 +116,7 @@
       "position": "Lab assistant",
       "website": "",
       "startDate": "2014-09-01",
-      "endDate": "2017",
+      "endDate": "2017-05-13",
       "summary": "Collaboration on neutrino experiments: DUNE, NuLat, LPS",
       "highlights": [
         "Calibration and characterization of SiPMs, and PMTs",
