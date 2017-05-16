@@ -72,7 +72,7 @@
     "awards": [
     {
       "title": "Dean's List",
-      "date": "Fall 2016",
+      "date": "Fall 2016, Spring 2017",
       "awarder": "University of Hawaii Manoa",
       "summary": ""
     },
@@ -105,10 +105,10 @@
      "website": "oer.hawaii.edu",
      "startDate": "2017-05-13",
      "endDate": "Present",
-     "summary": "Building a open source database of physics problems; randomized and amorphous enough so that solutions are not easily searchable on the internet",
+     "summary": "OER aims to improve pedagogy through open access educational tools, making quality education accessible to everyone",
      "highlights":[
-       "",
-       ""
+       "Building a open source database of physics problems in compliment to open access text books",
+       "Randomize and amorphous enough so that solutions are not easily searchable on the internet"
        ]
     },
     {
@@ -156,9 +156,9 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Linux",
+        "MacOS",
         "Git/GitHub",
         "g++",
         "Windows"
