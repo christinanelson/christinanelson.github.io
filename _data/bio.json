@@ -50,7 +50,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Physics, Computer Science minor (expected Spring, 2017)",
+      "area": "Physics, Computer Science minor (Spring, 2017)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "Present",
@@ -99,12 +99,20 @@
     }
   ],
   "work": [
+    {"company": "University of Hawaii at Manoa",
+     "position": "Open Education ReSources (OER)",
+     "website": "oer.hawaii.edu",
+     "startDate": "2017-05-13",
+     "endDate": "Present",
+     "summary": "Building a open source database of physics problems;"
+     "randomized and amorphous enough so that solutions are not easily searchable on the internet"
+    },
     {
       "company": "UH Manoa Physics department",
       "position": "Lab assistant",
       "website": "",
       "startDate": "2014-09-01",
-      "endDate": "Present",
+      "endDate": "2017",
       "summary": "Collaboration on neutrino experiments: DUNE, NuLat, LPS",
       "highlights": [
         "Calibration and characterization of SiPMs, and PMTs",
@@ -131,6 +139,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "ROOT",
         "C",
         "C++",
         "Python",
@@ -145,6 +154,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "Linux",
         "Git/GitHub",
         "g++",
         "Windows"
