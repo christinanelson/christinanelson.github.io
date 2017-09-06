@@ -102,11 +102,22 @@
   ],
   "work": [
     {
+     "company": "Institude for Astronomy at the University of Hawaii at Manoa",
+     "position": "Software data processing assistant",
+     "website": "www.fallingstar.com/home.php",
+     "startDate": "2017-08-11",
+     "endDate": "2017-09-11",
+     "summary": "Detection of near earth objects (NEO), especially asteroids, becomes a challenging problem for computation due to the high combinatorics of potentail asteroid detection. An algorithm is developed with Professor Nodari Sitchinava using computational geometry to efficiently and accurately determine NEOs.",
+     "highlights":[
+       "Developing an asteroid detection algorithm and source code with the use of computational geometry"
+       ]      
+    },
+    {
      "company": "University of Hawaii at Manoa",
      "position": "Open Education Resources (OER)",
      "website": "oer.hawaii.edu",
      "startDate": "2017-05-13",
-     "endDate": "Present",
+     "endDate": "2017-08-11",
      "summary": "OER aims to improve pedagogy through open access educational tools, making quality education accessible to everyone",
      "highlights":[
        "Building an open source database of physics problems in compliment to open access text books",
