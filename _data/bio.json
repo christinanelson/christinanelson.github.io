@@ -107,7 +107,7 @@
      "website": "www.fallingstar.com/home.php",
      "startDate": "2017-08-11",
      "endDate": "2017-09-11",
-     "summary": "Detection of near earth objects (NEO), especially asteroids, becomes a challenging problem for computation due to the high combinatorics of potentail asteroid detection. An algorithm is developed with Professor Nodari Sitchinava using computational geometry to efficiently and accurately determine NEOs.",
+     "summary": "Detection of near earth objects (NEO), especially asteroids, becomes a challenging problem for computation due to the high combinatorics of potential asteroid detection. An algorithm is developed with Professor Nodari Sitchinava using computational geometry to efficiently and accurately determine NEOs.",
      "highlights":[
        "Developing an asteroid detection algorithm and source code with the use of computational geometry"
        ]      
