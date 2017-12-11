@@ -3,16 +3,16 @@
     "name": "Christina Nelson",
     "label": "Student",
     "picture": "https://christinanelson.github.io/images/me.png",
-    "email": "canelson@hawaii.edu",
+    "email": "canelson@physics.mcgill.ca",
     "phone": "",
-    "website": "https://christinanelson.github.io",
-    "summary": "I have a B.S. in Physics and a minor in C.S. from the University of Hawaii. I begin graduate school in Fall 2017 at McGill University.",
+    "website": "https://www.physics.mcgill.ca/~canelson/",
+    "summary": "I have a B.S. in Physics and a minor in C.S. from the University of Hawaii. I am currently a graduate student at McGill University in the High Energy Experimental Physics group working on the ATLAS experiment.",
     "location": {
       "address": "",
-      "postalCode": "96815",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "H3A 2T8",
+      "city": "Montreal",
+      "countryCode": "Canada",
+      "region": "Quebec"
     },
     "profiles": [
       {
